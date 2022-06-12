@@ -1,6 +1,6 @@
 # This Project uses this DB and API connection:
 
-*https://github.com/Mussakova/Lx_51_ConectandoAPrsimaDB*
+<p target="_blank">https://github.com/Mussakova/Lx_51_ConectandoAPrsimaDB</p>
 
 # vue-3-crud
 
